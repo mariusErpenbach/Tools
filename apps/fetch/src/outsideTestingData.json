@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "question": "has Hagrid a room in the castle?",
+      "answers": ["yes","no"],
+      "correctAnswer":"yes",
+      "points": 2
+    },
+    {
+        "id": 1,
+        "question": "Which of these animals is not allowed for Hogwartsstudents to carry with them as a pet?",
+        "answers": ["toad","owl","dog","cat"],
+        "correctAnswer":"dog",
+        "points": 4
+      },
+      {
+        "id": 1,
+        "question": "What do Harry and Ron like to play together while in the Gryffindor restingroom?",
+        "answers": ["chess","billiard","cricket"],
+        "correctAnswer":"chess",
+        "points": 5
+      }
+  ]
